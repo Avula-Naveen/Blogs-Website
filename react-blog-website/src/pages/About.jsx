@@ -46,7 +46,7 @@ const About = () => {
 </div>
 {/* user two */}
 <div className="card my-8" >
-  <img src=".\src\assets\user2F.jpg" alt="John" style={{ height:"150px",width: "150px",borderRadius:'50%' }} className='mt-4'/>
+  <img src=".\src\assets\user-02.jpg" alt="image" style={{ height:"150px",width: "150px",borderRadius:'50%' }} className='mt-4'/>
   <h1>Rayna Mario</h1>
   <p className="title">Content Writer</p>
   <p className='display: inline-flex'><PiArticleNyTimesFill/> 8 Articles Published</p>
@@ -60,7 +60,7 @@ const About = () => {
 </div>
 {/* user four */}
 <div className="card my-8">
-  <img src=".\src\assets\user4M.jpg" alt="John" style={{ height:"150px",width: "150px",borderRadius:'50%' }} className='mt-4'/>
+  <img src=".\src\assets\user-04.jpg" alt="John" style={{ height:"150px",width: "150px",borderRadius:'50%' }} className='mt-4'/>
   <h1>Mark Jacob</h1>
   <p className="title">Head of Services</p>
   <p className='display: inline-flex '><PiArticleNyTimesFill/> 10 Articles Published</p>
